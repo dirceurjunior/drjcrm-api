@@ -6,7 +6,6 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-@Data
 @Entity
 public class Cliente {
 
@@ -16,7 +15,5 @@ public class Cliente {
 
 	@Column(nullable = false)
 	private String nome;
-
-
 
 }
