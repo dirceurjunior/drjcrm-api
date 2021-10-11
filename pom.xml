@@ -13,7 +13,7 @@
 	<artifactId>drjcrm-api</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>drjcrm-api</name>
-	<description>API Demo for Spring Boot</description>
+	<description>API Demo for Spring Boot 1</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
